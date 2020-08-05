@@ -1,13 +1,55 @@
-# Afonso Machado
-
 ## Hello friends 👋
 Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e React Native
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end usando frameworks JS
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, sou cinéfilo nas horas vagas, e maratonista de Netflix e Primevideo
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AfonsoMachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AfonsoMachado/)](https://www.linkedin.com/in/AfonsoMachado/) 
-| [![Gmail Badge](https://img.shields.io/badge/-afonsosmachado@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonsosmachado@gmail.com)](mailto:afonsosmachado@gmail.com)
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias música, sou cinéfilo nas horas vagas, maratonista de Netflix e Primevideo e tecladista
+
+<p>
+  <a
+    href="https://www.instagram.com/afonsomachado" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-4169E1?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/AfonsoMachado/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-4169E1?style=flat&logo=Linkedin&logoColor=white" />
+  <a
+    href="mailto:afonsosmachado@gmail.com" 
+    alt="Gmail"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Gmail-4169E1?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a
+    href="https://whats.link/rafaelmartins92" 
+    alt="WhatsApp"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-WhatsApp-6633cc?style=flat&logo=WhatsApp&logoColor=white" />
+  </a>
 
 
+<!--
+**rafaelmartins92/rafaelmartins92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on my personal blog with Gatsby, React, GraphQL and Netlify 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### Useful links: 
+
+-->
 
