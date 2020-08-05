@@ -27,11 +27,11 @@ Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de
     <img src="https://img.shields.io/badge/-Gmail-4169E1?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a
-    href="https://whats.link/rafaelmartins92" 
+    href="https://whats.link/afonsomachado" 
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-6633cc?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-4169E1?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
 
 
