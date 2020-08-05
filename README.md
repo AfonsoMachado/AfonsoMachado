@@ -3,7 +3,7 @@ Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e React Native
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end usando frameworks JS
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias música, sou cinéfilo nas horas vagas, maratonista de Netflix e Primevideo e tecladista
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, heavy metal, sou cinéfilo nas horas vagas, maratonista de Netflix e Primevideo e tecladista
 
 <p>
   <a
