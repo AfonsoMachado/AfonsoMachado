@@ -1,4 +1,4 @@
-## Hello friends 👋
+## Hi there 👋
 Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e React Native
