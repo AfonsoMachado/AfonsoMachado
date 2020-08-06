@@ -27,7 +27,7 @@ Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de
     <img src="https://img.shields.io/badge/-Gmail-4169E1?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a
-    href="https://whats.link/afonsomachado" 
+    href="https://wa.me/75991244622?text=iai%20cara" 
     alt="WhatsApp"
     target="blank"
   >
