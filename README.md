@@ -9,27 +9,27 @@ Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de
   <a
     href="https://www.instagram.com/afonsomachado" 
     alt="Instagram"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Instagram-4169E1?style=flat&logo=Instagram&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/AfonsoMachado/" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-4169E1?style=flat&logo=Linkedin&logoColor=white" />
   <a
     href="mailto:afonsosmachado@gmail.com" 
     alt="Gmail"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Gmail-4169E1?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a
     href="https://wa.me/5575991244622?text=iai%20cara" 
     alt="WhatsApp"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-4169E1?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
