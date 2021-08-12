@@ -1,5 +1,5 @@
 ## Hi there 👋
-Sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
+Meu nome é Afonso, sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre ReactJS e React Native
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end usando frameworks JS
