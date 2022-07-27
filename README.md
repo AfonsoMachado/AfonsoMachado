@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 Meu nome é Afonso, tenho 28 anos, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana, desenvolvedor web full-stack, sempre procurando expandir meus conhecimentos em desenvolvimento web e em busca de novas oportunidades. :computer:
 
 :books: &nbsp; Estou atualmente estudando muito sobre back-end usando NestJS
