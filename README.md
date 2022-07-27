@@ -1,9 +1,9 @@
 ## Hi there 👋
-Meu nome é Afonso, sou estudante de Engenharia de Computação da Universidade Estadual de Feira de Santana, atualmente procurando expandir meus conhecimentos em desenvolvimento web. :computer:
+Meu nome é Afonso, tenho 28 anos, sou estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana, desenvolvedor web full-stack, sempre procurando expandir meus conhecimentos em desenvolvimento web e em busca de novas oportunidades. :computer:
 
-:books: &nbsp; Estou atualmente estudando muito sobre ReactJS e React Native
+:books: &nbsp; Estou atualmente estudando muito sobre back-end usando NestJS
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end ou Back-end usando frameworks JS
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, heavy metal, sou cinéfilo nas horas vagas, maratonista de Netflix e tecladista
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, heavy metal, sou cinéfilo nas horas vagas, maratonista de série e tecladista
 
 <p>
   <a
